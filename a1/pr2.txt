@@ -1,96 +1,96 @@
-Accuray Incorporated	1753
-Akebia Therapeutics, Inc.	2416
-American River Bankshares	4538
-Antares Pharma, Inc.	622
-Aquestive Therapeutics, Inc.	1078
-Arch Capital Group Ltd.	4564
-Arotech Corporation	4172
-Aspen Group Inc.	615
-Attis Industries Inc.	1249
-Aware, Inc.	1112
-Barclays PLC	1455
-BioCryst Pharmaceuticals, Inc.	751
-Bridgewater Bancshares, Inc.	84
-Brighthouse Financial, Inc.	5243
-B. Riley Financial, Inc.	5159
-Bruker Corporation	1902
-Cadiz, Inc.	1680
-Capital Bancorp, Inc.	3316
-CareTrust REIT, Inc.	573
-CASI Pharmaceuticals, Inc.	247
-Celcuity Inc.	3418
-Cellectar Biosciences, Inc.	3275
-ClearBridge All Cap Growth ETF	1865
-Clearfield, Inc.	2968
-CM Seven Star Acquisition Corporation	1292
-Corcept Therapeutics Incorporated	95
-CPI Card Group Inc.	2106
-CryoPort, Inc.	5584
-CSI Compressco LP	336
-CUI Global, Inc.	3052
-DarioHealth Corp.	266
-Davis Select International ETF	115
-Deciphera Pharmaceuticals, Inc.	1903
-DiamondPeak Holdings Corp.	1672
-Discovery, Inc.	3963
-eGain Corporation	5217
-Ekso Bionics Holdings, Inc.	479
-Enphase Energy, Inc.	3114
-Entera Bio Ltd.	616
-Evofem Biosciences, Inc.	505
-First Midwest Bancorp, Inc.	1768
-Five Star Senior Living Inc.	2586
-FlexShopper, Inc.	190
-Fortress Biotech, Inc.	1186
-FSB Bancorp, Inc.	62
-Gilead Sciences, Inc.	5613
-Gladstone Commercial Corporation	1514
-Golar LNG Partners LP	1620
-Gordon Pointe Acquisition Corp.	3705
-Greenland Acquisition Corporation	665
-HD Supply Holdings, Inc.	786
-HMS Holdings Corp	272
-HopFed Bancorp, Inc.	5069
-Huntington Bancshares Incorporated	5652
-InterDigital, Inc.	1276
-Invesco DWA Momentum ETF	1037
-IRIDEX Corporation	5230
-iShares Russell 1000 Pure U.S. Revenue ETF	25
-Kala Pharmaceuticals, Inc.	226
-Longevity Acquisition Corporation	244
-Luminex Corporation	265
-Minerva Neurosciences, Inc	389
-Monocle Acquisition Corporation	3918
-MTBC, Inc.	455
-NantKwest, Inc.	1185
-Newell Brands Inc.	5447
-Patterson Companies, Inc.	5220
-PennantPark Floating Rate Capital Ltd.	5098
-Perceptron, Inc.	3475
-PetIQ, Inc.	4135
-Phunware, Inc.	3780
-Profire Energy, Inc.	1601
-Restoration Robotics, Inc.	551
-Retrophin, Inc.	3441
-RF Industries, Ltd.	4697
-RigNet, Inc.	306
-Schultze Special Purpose Acquisition Corp.	468
-Senior Housing Properties Trust	1199
-ServisFirst Bancshares, Inc.	435
-SigmaTron International, Inc.	2507
-Simulations Plus, Inc.	87
-Soliton, Inc.	921
-Sotherly Hotels LP	4344
-Sunrun Inc.	1212
-The Trade Desk, Inc.	3055
-TiVo Corporation	47
-TravelCenters of America LLC	3545
-Travelzoo	474
-Tribune Publishing Company	1786
-United Bancshares, Inc.	3578
-United Natural Foods, Inc.	1958
-Universal Logistics Holdings, Inc.	4459
-Vanda Pharmaceuticals Inc.	5386
-Vertex Pharmaceuticals Incorporated	2162
-Viacom Inc.	3566
-VictoryShares Emerging Market High Div Volatility Wtd ETF	1245
+Accuray Incorporated	118
+Akebia Therapeutics, Inc.	68
+American River Bankshares	121
+Antares Pharma, Inc.	49
+Aquestive Therapeutics, Inc.	113
+Arch Capital Group Ltd.	105
+Arotech Corporation	120
+Aspen Group Inc.	120
+Attis Industries Inc.	42
+Aware, Inc.	93
+Barclays PLC	68
+BioCryst Pharmaceuticals, Inc.	94
+Bridgewater Bancshares, Inc.	60
+Brighthouse Financial, Inc.	71
+B. Riley Financial, Inc.	16
+Bruker Corporation	85
+Cadiz, Inc.	17
+Capital Bancorp, Inc.	61
+CareTrust REIT, Inc.	103
+CASI Pharmaceuticals, Inc.	107
+Celcuity Inc.	136
+Cellectar Biosciences, Inc.	63
+ClearBridge All Cap Growth ETF	44
+Clearfield, Inc.	171
+CM Seven Star Acquisition Corporation	139
+Corcept Therapeutics Incorporated	39
+CPI Card Group Inc.	135
+CryoPort, Inc.	36
+CSI Compressco LP	119
+CUI Global, Inc.	58
+DarioHealth Corp.	98
+Davis Select International ETF	60
+Deciphera Pharmaceuticals, Inc.	42
+DiamondPeak Holdings Corp.	144
+Discovery, Inc.	118
+eGain Corporation	143
+Ekso Bionics Holdings, Inc.	11
+Enphase Energy, Inc.	125
+Entera Bio Ltd.	158
+Evofem Biosciences, Inc.	74
+First Midwest Bancorp, Inc.	75
+Five Star Senior Living Inc.	126
+FlexShopper, Inc.	36
+Fortress Biotech, Inc.	130
+FSB Bancorp, Inc.	41
+Gilead Sciences, Inc.	41
+Gladstone Commercial Corporation	62
+Golar LNG Partners LP	42
+Gordon Pointe Acquisition Corp.	21
+Greenland Acquisition Corporation	35
+HD Supply Holdings, Inc.	22
+HMS Holdings Corp	52
+HopFed Bancorp, Inc.	154
+Huntington Bancshares Incorporated	115
+InterDigital, Inc.	29
+Invesco DWA Momentum ETF	123
+IRIDEX Corporation	124
+iShares Russell 1000 Pure U.S. Revenue ETF	21
+Kala Pharmaceuticals, Inc.	70
+Longevity Acquisition Corporation	54
+Luminex Corporation	12
+Minerva Neurosciences, Inc	12
+Monocle Acquisition Corporation	115
+MTBC, Inc.	19
+NantKwest, Inc.	88
+Newell Brands Inc.	14
+Patterson Companies, Inc.	150
+PennantPark Floating Rate Capital Ltd.	91
+Perceptron, Inc.	55
+PetIQ, Inc.	131
+Phunware, Inc.	29
+Profire Energy, Inc.	86
+Restoration Robotics, Inc.	99
+Retrophin, Inc.	141
+RF Industries, Ltd.	148
+RigNet, Inc.	38
+Schultze Special Purpose Acquisition Corp.	81
+Senior Housing Properties Trust	57
+ServisFirst Bancshares, Inc.	103
+SigmaTron International, Inc.	50
+Simulations Plus, Inc.	19
+Soliton, Inc.	134
+Sotherly Hotels LP	141
+Sunrun Inc.	19
+The Trade Desk, Inc.	15
+TiVo Corporation	34
+TravelCenters of America LLC	139
+Travelzoo	104
+Tribune Publishing Company	121
+United Bancshares, Inc.	175
+United Natural Foods, Inc.	105
+Universal Logistics Holdings, Inc.	83
+Vanda Pharmaceuticals Inc.	149
+Vertex Pharmaceuticals Incorporated	161
+Viacom Inc.	30
+VictoryShares Emerging Market High Div Volatility Wtd ETF	16

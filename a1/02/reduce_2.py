@@ -6,6 +6,7 @@ def emit(token, count):
     print('{token}\t{count}'.format(token=token, count=count))
 
 previous = None
+previous_number = None
 total = 0
 count = 0
 for line in sys.stdin:
@@ -20,7 +21,9 @@ for line in sys.stdin:
     if previous and previous != inputs[0]:
         emit(previous, total)
         total = 0
+    if previous_number != inputs[1]:
+        total += count
     previous = inputs[0]
-    total += count
+    previous_number = inputs[1]
 
 emit(previous, total)
